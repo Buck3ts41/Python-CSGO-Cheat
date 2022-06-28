@@ -1,0 +1,6 @@
+pymem
+keyboard
+pywin32
+art 
+PySimpleGUI 
+
