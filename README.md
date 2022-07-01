@@ -5,17 +5,25 @@ For now is 100% undetected, i will update offsets when new cs:go version will re
 
 # Features
 
-- Glow ESP (currently not working)
+- Glow ESP 
 - Chams
 - Bunny Hop
 - FOV
 - Radar Hack
 - Triggerbot (under development)
 - 3rd Person
+- No Flash
+- Skin Changer (buggy)
 
 # Installation
+IF YOU HAVE PYTHON INSTALLED:
 
-Download the repository, run the exe or the python file.
+- Download the repository
+- install requirements with pip -m install requirements.txt
+- run loader.py with python Loader.py
+
+IF YOU DON'T HAVE PYTHON, GO TO THE RELEASE PAGE AND DOWNLOAD THE COMPILED ONE
+
 After that the menu will appear.
 
 Please let me know if you need help.
