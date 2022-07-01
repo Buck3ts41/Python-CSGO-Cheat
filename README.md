@@ -22,5 +22,6 @@ IF YOU HAVE PYTHON INSTALLED:
 - install requirements with pip -m install requirements.txt
 - run loader.py with python Loader.py
 
-IF YOU DON'T HAVE PYTHON, GO TO THE RELEASE PAGE AND DOWNLOAD THE COMPILED ONE
+IF YOU DON'T HAVE PYTHON, GO TO THE RELEASE PAGE AND DOWNLOAD THE COMPILED ONE!    
+
 Please let me know if you need help.
