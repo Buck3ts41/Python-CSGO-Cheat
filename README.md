@@ -23,7 +23,4 @@ IF YOU HAVE PYTHON INSTALLED:
 - run loader.py with python Loader.py
 
 IF YOU DON'T HAVE PYTHON, GO TO THE RELEASE PAGE AND DOWNLOAD THE COMPILED ONE
-
-After that the menu will appear.
-
 Please let me know if you need help.
