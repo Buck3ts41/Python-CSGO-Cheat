@@ -7,11 +7,11 @@ The cheat use multi-thread and is external
 
 - Glow ESP 
 - Chams
-- Bunny Hop
+- Bunny Hop (Use with space)
 - FOV
 - Radar Hack
 - Triggerbot (under development)
-- 3rd Person
+- 3rd Person (Use with z)
 - No Flash
 - Skin Changer (buggy)
 
