@@ -2,7 +2,7 @@
 
 This is a POC project, made just for fun.
 For now is 100% undetected, i will update offsets when new cs:go version will release.
-
+The cheat use multi-thread and is external
 # Features
 
 - Glow ESP 
