@@ -3,17 +3,18 @@
 This is a POC project, made just for fun.
 For now is 100% undetected, i will update offsets when new cs:go version will release.
 The cheat use multi-thread and is external
-# Features
+# Features v1.5
 
 - Glow ESP 
 - Chams
 - Bunny Hop (Use with space)
 - FOV
 - Radar Hack
-- Triggerbot (under development)
-- 3rd Person (Use with z)
+- Triggerbot 
+- 3rd Person 
 - No Flash
-- Skin Changer (buggy)
+- Skin Changer 
+- Rank Reveal
 
 # Installation
 IF YOU HAVE PYTHON INSTALLED:
