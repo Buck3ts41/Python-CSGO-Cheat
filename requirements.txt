@@ -1,0 +1,7 @@
+pymem
+keyboard
+pywin32
+PySimpleGUI 
+numpy
+requests
+
