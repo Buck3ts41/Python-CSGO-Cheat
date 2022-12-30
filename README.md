@@ -3,8 +3,9 @@
 This is a POC project, made just for fun.
 For now is 100% undetected, i will update offsets when new cs:go version will release.
 The cheat use multi-thread and is external
-# Features v1.5
+# Features v2.3
 
+- No Recoil
 - Glow ESP 
 - Chams
 - Bunny Hop (Use with space)
@@ -12,8 +13,7 @@ The cheat use multi-thread and is external
 - Radar Hack
 - Triggerbot 
 - 3rd Person 
-- No Flash
-- Skin Changer 
+- No Flash 
 - Rank Reveal
 
 # Installation
